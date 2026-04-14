@@ -1,4 +1,4 @@
-# 🦴 Caveman Mode: The Developer's Silent Partner
+# 🔦 Caveman Mode: The Developer's Silent Partner
 
 **Goal**: Technical accuracy, zero filler, massive token savings.
 
